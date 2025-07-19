@@ -5,7 +5,7 @@
 		session_destroy();
 		session_unset();
 
-		header("Location:admin/admin_login.php")
+		header("Location:login.php")
 
 
 
